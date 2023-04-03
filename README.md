@@ -29,6 +29,9 @@ There are two parts, the "Mediator" and the Application (Deforumation GUI).
 
 Start by running the Mediator, which is located in the deforumation folder (mediator.py):
 
+When starting the mediator it will seems like nothing is happening. But this command window shall remain open.
+Otherwise the communication between deforum and deforumation will not work.
+
 >python mediator.py
 
 Then you can start the acctual application from another terminal, with:
